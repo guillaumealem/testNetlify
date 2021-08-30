@@ -4,11 +4,6 @@ import Link from "../Link/Link";
 
 const Nav = () => {
   const [navClass, setNavClass] = useState("");
-  const [toggeledNav, settoggeledNav] = useState(false);
-
-  const toggleNav = () => {
-    settoggeledNav(!toggeledNav);
-  };
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
