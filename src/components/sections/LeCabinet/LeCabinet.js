@@ -14,7 +14,7 @@ const leCabinet = () => {
           <h6 className="section-subtitle mr-auto ml-auto">
             Le cabinet se situe à Villiers en plaine au 14 rue Henri Dunan.
             <br />
-            Il est ouvert du lendi au vendredi de 8:00 à 20:00
+            Il est ouvert du lundi au vendredi de 8:00 à 20:00
           </h6>
         </div>
         <div className="section-content">
