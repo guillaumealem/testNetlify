@@ -5,6 +5,7 @@ import Link from "../Link/Link";
 const Nav = () => {
   const [navClass, setNavClass] = useState("");
 
+
   useEffect(() => {
     window.addEventListener("scroll", () => {
       let navClass = "";
