@@ -6,8 +6,6 @@ import blogImage1 from "../../../assets/img/julien.jpg";
 import imgCeline from "../../../assets/img/celine.jpg";
 import imgMarine from "../../../assets/img/marine.jpg";
 import imgChloe from "../../../assets/img/chloe.jpg";
-import blogImage2 from "../../../assets/img/blog2.jpg";
-import blogImage3 from "../../../assets/img/blog3.jpg";
 
 const Kine = () => {
   return (
