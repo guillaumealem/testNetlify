@@ -14,8 +14,6 @@ const sections = () => {
       <Home />
       <LeCabinet />
       <Kine />
-      <Service />
-      <Facts />
       <Contact />
       <MapMarker />
     </Fragment>

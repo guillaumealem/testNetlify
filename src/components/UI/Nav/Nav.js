@@ -45,11 +45,7 @@ const Nav = () => {
                 Les Kinés
               </Link>
             </li>
-            <li className="nav-item">
-              <Link target="service" classes="nav-link">
-                Les Soins
-              </Link>
-            </li>
+
             <li className="nav-item">
               <Link target="contact" classes="nav-link">
                 Contact

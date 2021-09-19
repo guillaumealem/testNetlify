@@ -2,7 +2,10 @@ import React from "react";
 
 import Section from "../../../HOC/Section";
 
-import blogImage1 from "../../../assets/img/blog1.jpg";
+import blogImage1 from "../../../assets/img/julien.jpg";
+import imgCeline from "../../../assets/img/celine.jpg";
+import imgMarine from "../../../assets/img/marine.jpg";
+import imgChloe from "../../../assets/img/chloe.jpg";
 import blogImage2 from "../../../assets/img/blog2.jpg";
 import blogImage3 from "../../../assets/img/blog3.jpg";
 
@@ -48,7 +51,7 @@ const Kine = () => {
             </div>
             <div className="col-lg-6 mb-3">
               <div className="card rounded-0">
-                <img src={blogImage1} className="card-img-top" alt="Blog 1" />
+                <img src={imgCeline} className="card-img-top" alt="Blog 1" />
                 <div className="card-body">
                   <h5 className="card-title">Mouzille Céline</h5>
                   <p className="card-text">
@@ -64,7 +67,7 @@ const Kine = () => {
             </div>
             <div className="col-lg-6 mb-3">
               <div className="card rounded-0">
-                <img src={blogImage2} className="card-img-top" alt="Blog 2" />
+                <img src={imgMarine} className="card-img-top" alt="Blog 2" />
                 <div className="card-body">
                   <h5 className="card-title">Buffeteau Marine</h5>
                   <p className="card-text">
@@ -80,7 +83,7 @@ const Kine = () => {
             </div>
             <div className="col-lg-6 mb-3">
               <div className="card rounded-0">
-                <img src={blogImage3} className="card-img-top" alt="Blog 3" />
+                <img src={imgChloe} className="card-img-top" alt="Blog 3" />
                 <div className="card-body">
                   <h5 className="card-title">Debonne Chloé</h5>
                   <p className="card-text">
